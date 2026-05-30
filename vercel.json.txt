@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "levitopup-store",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
